@@ -1,0 +1,2 @@
+# CodeAlpha_Social-Media-Platform
+This project is a full stack Mini Social Media Application developed using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. It allows users to log in, create posts, view posts, and like posts in real time. The application includes a modern dashboard, profile page, user interaction features, and database connectivity using MongoDB Compass. It demonstrates frontend development, backend API integration, and database management in a complete social media platform.
